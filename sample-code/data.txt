@@ -1,0 +1,5 @@
+"99999" "Naruto Kun" "BIT" "TIA1023" "TID3073" "TIN3053" "TIN3163" "HZA1013" "Pengaturcaraan Lanjutan" "Projek IT" "Agen Pintar" "Projek Sistem Pintar" "Penghantar Pelancongan" "3" "3" "3" "3" "3" "15" 
+
+"11111" "Sasuke" "BIT" "TIA1023" "TIN3163" "TIJ3043" "TID3163" "TIV2013" "Pengaturcaraan Lanjutan" "Projek Sistem Pintar" "Pembangunan Web Aplikasi" "Kejuruteraan Perisian" "Interaksi Manusia Mesin" "3" "3" "3" "3" "3" "15" 
+"77777" "Sakura" "BIT" "TIA1023" "TIN3163" "TID3073" "TIV2013" "TIN3053" "Pengaturcaraan Lanjutan" "Projek Sistem Pintar" "Projek IT" "Interaksi Manusia komputer" "Agen Pintar" "3" "3" "3" "3" "3" "15" 
+"33333" "Goku" "BIT" "TJ1000" "ds" "dfs" "dfsf" "sfdsf" "sd" "fsfds" "fsd" "dsf" "sdf" "3" "3" "3" "3" "3" "15" 
